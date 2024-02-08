@@ -1,0 +1,9 @@
+body{
+    background-color: fuchsia;
+color: dodgerblue;
+text-align: center;
+}
+#mycanvas{
+    background-color: white  ;
+    border: solid 3px black;
+}
